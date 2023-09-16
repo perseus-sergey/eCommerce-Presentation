@@ -364,3 +364,14 @@ section.has-light-background, section.has-light-background h1, section.has-light
     background-color: var(--r-background-color);
   }
 }
+/*********************************************
+ * MY STYLES
+ *********************************************/
+ .reveal-viewport {
+  background-image: url(../img/bg.png);
+  background-color: #2d161e;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+ }
